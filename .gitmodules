@@ -1,0 +1,8 @@
+[submodule "Assets/Maps"]
+	path = Assets/Maps
+	url = https://github.com/FLUX-Interactive-Studios/BuyOrDie-Maps.git
+	branch = master
+[submodule "Assets/Models"]
+	path = Assets/Models
+	url = https://github.com/FLUX-Interactive-Studios/BuyOrDie-Models.git
+	branch = master
